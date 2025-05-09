@@ -1,4 +1,4 @@
-with open("primenumder.txt","r") as file:
+with open("primenumber.txt","r") as file:
       file.read()
 #Use a function to check if a number is prime.
 def is_prime(num):
